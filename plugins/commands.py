@@ -53,9 +53,13 @@ async def start(client, message):
             InlineKeyboardButton('ℹ️ Help', callback_data='help'),
             InlineKeyboardButton('😊 About', callback_data='about')
             ],[
-            InlineKeyboardButton('🔍 Search', switch_inline_query_current_chat='')
+            InlineKeyboardButton('🍁Sᴜᴘᴘᴏʀᴛ Gʀᴏᴜᴘ🍁', url="https://t.me/bots_supported")
         ]]
         reply_markup = InlineKeyboardMarkup(buttons)
+        await message.reply_chat_action("Typing")
+        m=await message.reply_sticker("CAACAgUAAxkBAAEGmBRjhOg5skcH7YlJUtTzT9hG-3e1-AAC-AMAAp9EiVed3ajGmwsl5isE") 
+        await asyncio.sleep(1)
+        await m.delete()        
         await message.reply_video(
             video=random.choice(PICS),
             caption=script.START_TXT.format(message.from_user.mention, temp.U_NAME, temp.B_NAME),
@@ -104,9 +108,13 @@ async def start(client, message):
             InlineKeyboardButton('ℹ️ Help', callback_data='help'),
             InlineKeyboardButton('😊 About', callback_data='about')
             ],[
-            InlineKeyboardButton('🔍 Search', switch_inline_query_current_chat='')
+            InlineKeyboardButton('🍁Sᴜᴘᴘᴏʀᴛ Gʀᴏᴜᴘ🍁', url="https://t.me/bots_supported")
         ]]
         reply_markup = InlineKeyboardMarkup(buttons)
+        await message.reply_chat_action("Typing")
+        m=await message.reply_sticker("CAACAgUAAxkBAAEGmBRjhOg5skcH7YlJUtTzT9hG-3e1-AAC-AMAAp9EiVed3ajGmwsl5isE") 
+        await asyncio.sleep(1)
+        await m.delete()        
         await message.reply_video(
             video=random.choice(PICS),
             caption=script.START_TXT.format(message.from_user.mention, temp.U_NAME, temp.B_NAME),

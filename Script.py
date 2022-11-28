@@ -15,18 +15,20 @@ class script(object):
 ○ 𝙳𝚘𝚗'𝚝 𝚂𝚙𝚊𝚖 𝙼𝚎...🤒
 """
     ABOUT_TXT = """➪ 𝑴𝒚 𝒏𝒂𝒎𝒆 : ⚔𝐌𝐫𝐂《》𝐕𝐄𝐍𝐎𝐌⚔
-➪ 𝑪𝒓𝒆𝒂𝒕𝒐𝒓 : <a href="https://t.me/https://t.me/bots_supported">ʜᴇʀᴇ</a>
+➪ 𝑪𝒓𝒆𝒂𝒕𝒐𝒓 : <a href="https://t.me/MrC_VENOM_bot">ʜᴇʀᴇ</a>
 ➪ 𝑫𝒆𝒗𝒐𝒍𝒐𝒑𝒆𝒓 : <a href="https://t.me/AFxSU">ɛӼ_ռöֆ</a>
 ➪ 𝑳𝒊𝒃𝒓𝒂𝒓𝒚 : <a href='https://docs.pyrogram.org/'>𝑷𝒚𝒓𝒐𝒈𝒓𝒂𝒎</a>
 ➪ 𝑳𝒂𝒏𝒈𝒖𝒂𝒈𝒆 : <a href='https://docs.pyrogram.org/'>𝑷𝒚𝒕𝒉𝒐𝒏 3</a>
 ➪ 𝑫𝒂𝒕𝒂 𝒃𝒂𝒔𝒆 : <a href='https://www.mongodb.com/'>𝑴𝒐𝒏𝒈𝒐𝑫𝑩</a>
 ➪ 𝑩𝒐𝒕 𝒔𝒆𝒓𝒗𝒆𝒓 : <a href="https://t.me/quickfastt">𝑸𝒖𝒊𝒄𝒌𝑭𝒂𝒔𝒕</a>
 ➪ 𝑩𝒖𝒊𝒍𝒅 𝑺𝒕𝒂𝒕𝒖𝒔 : v2.0.3 [ 𝑺𝒕𝒂𝒃𝒍𝒆 ]</b>""" 
-    SOURCE_TXT = """<b>ɴᴏᴛᴇ:
-- ᴛʜɪꜱ ʙᴏᴛ ɪꜱ ᴀɴ ᴏᴘᴇɴ ꜱᴏᴜʀᴄᴇ ᴘʀᴏᴊᴇᴄᴛ.
-- ꜱᴏᴜʀᴄᴇ - <a href="https://t.me/bots_supported">ʜᴇʀᴇ</a>
-Dᴇᴠᴇʟᴏᴘᴇʀ:
-- <a href="https://t.me/AFxSU">ɛӼ_ռöֆ__⁷⁷⁷</a></b>"""
+    SOURCE_TXT = """
+<b>⍟───[ ᴅᴇᴛᴀɪʟꜱ ]───⍟
+➪ 𝑫𝒆𝒗𝒐𝒍𝒐𝒑𝒆𝒓 :  
+- <a href='t.me/AFxSU'>🍒ɛӼ_ռöֆ__⁷⁷⁷✘⁴✨🦋</a>
+➪ 𝑪𝒓𝒆𝒂𝒕𝒐𝒓 :
+- <a href='t.me/MrC_VENOM'>༒𝙼𝚛𝙲《》𝚅𝙴𝙽𝙾𝙼༒</a>
+"""
     BAN_TXT ="""<b>Bans:</b>
 <b>Some people need to be publicly banned; spammers, annoyances, or just trolls.</b>
 

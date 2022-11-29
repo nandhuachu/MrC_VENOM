@@ -435,12 +435,12 @@ async def cb_handler(client: Client, query: CallbackQuery):
             InlineKeyboardButton('⭕️𝚄𝙿𝙳𝙰𝚃𝙴 𝙲𝙷𝙰𝙽𝙽𝙴𝙻⭕️', url='https://t.me/tvseriezzz_update')
         ], [
             InlineKeyboardButton("♻️ ⒼⓇⓄⓊⓅ 2 ♻️", url="https://t.me/MrCVENOM_chat"),
-            InlineKeyboardButton("🔥 Dev 🔥", url="https://t.me/MrC_VENOM")
+            InlineKeyboardButton("🔥 Dev 🔥", callback_data='source')
         ], [
             InlineKeyboardButton('ℹ️ Help', callback_data='help'),
             InlineKeyboardButton('😊 About', callback_data='about')
         ], [
-            InlineKeyboardButton('🔍 Search', switch_inline_query_current_chat='')
+            InlineKeyboardButton('🍁Sᴜᴘᴘᴏʀᴛ Gʀᴏᴜᴘ🍁', url="https://t.me/bots_supported")
         ]]
         reply_markup = InlineKeyboardMarkup(buttons)
         await query.message.edit_text(
@@ -458,7 +458,7 @@ async def cb_handler(client: Client, query: CallbackQuery):
             InlineKeyboardButton('🗓 Info', callback_data='extra'), 
             InlineKeyboardButton('🏷 Filter', callback_data='filter')
         ], [
-            InlineKeyboardButton('Connection', callback_data='coct'),
+            InlineKeyboardButton('🫂Connection', callback_data='coct'),
             InlineKeyboardButton('🔮 Status', callback_data='stats')
         ], [
             InlineKeyboardButton('🏠 Home', callback_data='start'),
@@ -472,8 +472,7 @@ async def cb_handler(client: Client, query: CallbackQuery):
         )
     elif query.data == "about":
         buttons = [[
-            InlineKeyboardButton('⭕️𝚄𝙿𝙳𝙰𝚃𝙴 𝙲𝙷𝙰𝙽𝙽𝙴𝙻⭕️', url='https://t.me/tvseriezzz_update'),
-            InlineKeyboardButton('♥️ Source', callback_data='source')
+            InlineKeyboardButton('🤴 Admins 🤴', callback_data='source')
         ], [
             InlineKeyboardButton('🏠 Home', callback_data='start'),
             InlineKeyboardButton('ℹ️ Help', callback_data='help')

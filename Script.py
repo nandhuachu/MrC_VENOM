@@ -18,29 +18,23 @@ class script(object):
 ○ 𝙳𝚘𝚗'𝚝 𝚂𝚙𝚊𝚖 𝙼𝚎...🤒
 
 ©️ MᴀɪɴᴛᴀɪɴᴇD Bʏ : <a href='https://t.me/tvseriezzz_group'>♠️ 𝑨𝒍𝒍 𝑰𝒏 𝑶𝒏𝒆 𝑮𝒓𝒐𝒖𝒑 🎬</a>"""
-    ABOUT_TXT = """
-𝗧𝗛𝗜𝗦 𝘼𝙡𝙖𝙣 𝙒𝙖𝙡𝙠𝙚𝙧 𝗔𝗕𝗢𝗨𝗧 𝗠𝗦𝗚
-✵✵✵✵✵✵✵✵✵✵✵✵✵✵✵✵✵✵✵✵
-╔════❰ ꪖ᥇ꪮꪊ𝓽 ꪑ𝘴ᧁ ❱═❍⊱❁۪۪
-║╭━━━━━━━━━━━━━━━➣ 
-║┣⪼ ✯ 𝙼𝚈 𝙽𝙰𝙼𝙴 : <a href='https://t.me/tvseriezzz_bot'>𝙰𝚕𝚊𝚗 𝚆𝚊𝚕𝚔𝚎𝚛</a>
-║┣⪼ ✯ 𝙲𝚁𝙴𝙰𝚃𝙾𝚁: <a href='https://t.me/tvseriezzz_group'>𝚃𝚎𝚊𝚖</a>
-║┣⪼ ✯ 𝙻𝙸𝙱𝚁𝙰𝚁𝚈: <a href='https://docs.pyrogram.org'>𝙿𝚈𝚁𝙾𝙶𝚁𝙰𝙼</a>
-║┣⪼ ✯ 𝙻𝙰𝙽𝙶𝚄𝙰𝙶𝙴: <a href='https://www.python.org'>𝙿𝚈𝚃𝙷𝙾𝙽 𝟹</a>
-║┣⪼ ✯ 𝙳𝙰𝚃𝙰 𝙱𝙰𝚂𝙴: <a href='https://cloud.mongodb.com'>𝙼𝙾𝙽𝙶𝙾 𝙳𝙱</a>
-║┣⪼ ✯ 𝙱𝙾𝚃 𝚂𝙴𝚁𝚅𝙴𝚁: <a href='https://heroku.com'>𝙷𝙴𝚁𝙾𝙺𝚄</a>
-║┣⪼ ✯ 𝙱𝚄𝙸𝙻𝙳 𝚂𝚃𝙰𝚃𝚄𝚂: v1.0.1 [ 𝙱𝙴𝚃𝙰 ]
-📜 𝚀𝚞𝚘𝚝𝚎 : ആരും പേടിക്കണ്ട എല്ലാവർക്കും കിട്ടും™️
+    ABOUT_TXT = """➪ 𝑴𝒚 𝒏𝒂𝒎𝒆 : {} 
+➪ 𝑪𝒓𝒆𝒂𝒕𝒐𝒓 : <a href="https://t.me/MrC_VENOM">ʜᴇʀᴇ</a>
+➪ 𝑫𝒆𝒗𝒐𝒍𝒐𝒑𝒆𝒓 : <a href="https://t.me/AFxSU">ɛӼ_ռöֆ</a>
+➪ 𝑳𝒊𝒃𝒓𝒂𝒓𝒚 : <a href='https://docs.pyrogram.org/'>𝑷𝒚𝒓𝒐𝒈𝒓𝒂𝒎</a>
+➪ 𝑳𝒂𝒏𝒈𝒖𝒂𝒈𝒆 : <a href='https://docs.pyrogram.org/'>𝑷𝒚𝒕𝒉𝒐𝒏 3</a>
+➪ 𝑫𝒂𝒕𝒂 𝒃𝒂𝒔𝒆 : <a href='https://www.mongodb.com/'>𝑴𝒐𝒏𝒈𝒐𝑫𝑩</a>
+➪ 𝑩𝒐𝒕 𝒔𝒆𝒓𝒗𝒆𝒓 : <a href="https://t.me/quickfastt">𝑸𝒖𝒊𝒄𝒌𝑭𝒂𝒔𝒕</a>
+➪ 𝑩𝒖𝒊𝒍𝒅 𝑺𝒕𝒂𝒕𝒖𝒔 : v2.0.3 [ 𝑺𝒕𝒂𝒃𝒍𝒆 ]
 
 ©️ MᴀɪɴᴛᴀɪɴᴇD Bʏ : <a href='https://t.me/tvseriezzz_group'>♠️ 𝑨𝒍𝒍 𝑰𝒏 𝑶𝒏𝒆 𝑮𝒓𝒐𝒖𝒑 🎬</a>"""
-    SOURCE_TXT = """<b>NOTE:</b>
-- <b>Alan Walker is a open source bot.</b>
-
-- <b>Support Group - <a href=https://t.me/tvseriezzz_group>♠️ 𝑨𝒍𝒍 𝑰𝒏 𝑶𝒏𝒆 𝑮𝒓𝒐𝒖𝒑 🎬</a></b>
-
-- <b>Update Channel - <a href=https://t.me/tvseriezzz_update>♠️ 𝑨𝒍𝒍 𝑰𝒏 𝑶𝒏𝒆 {𝐔𝐩𝐝𝐚𝐭𝐞}</a></b>
-
-©️ MᴀɪɴᴛᴀɪɴᴇD Bʏ : <a href='https://t.me/tvseriezzz_group'>♠️ 𝑨𝒍𝒍 𝑰𝒏 𝑶𝒏𝒆 𝑮𝒓𝒐𝒖𝒑 🎬</a>"""
+    SOURCE_TXT = """
+<b>⍟───[ ᴅᴇᴛᴀɪʟꜱ ]───⍟
+➪ 𝑫𝒆𝒗𝒐𝒍𝒐𝒑𝒆𝒓 :  
+- <a href='t.me/AFxSU'>🍒ɛӼ_ռöֆ__⁷⁷⁷✘⁴✨🦋</a>
+➪ 𝑪𝒓𝒆𝒂𝒕𝒐𝒓 :
+- <a href='t.me/MrC_VENOM'>༒𝙼𝚛𝙲《》𝚅𝙴𝙽𝙾𝙼༒</a>
+"""
     BAN_TXT ="""<b>Bans:</b>
 <b>Some people need to be publicly banned; spammers, annoyances, or just trolls.</b>
 

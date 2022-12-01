@@ -440,7 +440,7 @@ async def cb_handler(client: Client, query: CallbackQuery):
             InlineKeyboardButton('ℹ️ Help', callback_data='help'),
             InlineKeyboardButton('😊 About', callback_data='about')
         ], [
-            InlineKeyboardButton('🍁Sᴜᴘᴘᴏʀᴛ Gʀᴏᴜᴘ🍁', url="https://t.me/bots_supported")
+            InlineKeyboardButton('🔍 Search', switch_inline_query_current_chat='')
         ]]
         reply_markup = InlineKeyboardMarkup(buttons)
         await query.message.edit_text(

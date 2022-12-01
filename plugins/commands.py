@@ -23,7 +23,7 @@ async def start(client, message):
     if message.chat.type in [enums.ChatType.GROUP, enums.ChatType.SUPERGROUP]:
         buttons = [
             [
-                InlineKeyboardButton('🔈Support', url='https://t.me/bots_supported')
+                InlineKeyboardButton('⭕️𝚄𝙿𝙳𝙰𝚃𝙴 𝙲𝙷𝙰𝙽𝙽𝙴𝙻⭕️', url='https://t.me/tvseriezzz_update')
             ],
             [
                 InlineKeyboardButton('ℹ️ Help', url=f"https://t.me/{temp.U_NAME}?start=help"),
@@ -53,7 +53,7 @@ async def start(client, message):
             InlineKeyboardButton('ℹ️ Help', callback_data='help'),
             InlineKeyboardButton('😊 About', callback_data='about')
             ],[
-            InlineKeyboardButton('🍁Sᴜᴘᴘᴏʀᴛ Gʀᴏᴜᴘ🍁', url="https://t.me/bots_supported")
+            InlineKeyboardButton('🔍 Search', switch_inline_query_current_chat='')
         ]]
         reply_markup = InlineKeyboardMarkup(buttons)
         m=await message.reply_sticker("CAACAgUAAxkBAAEGmBRjhOg5skcH7YlJUtTzT9hG-3e1-AAC-AMAAp9EiVed3ajGmwsl5isE") 
@@ -107,7 +107,7 @@ async def start(client, message):
             InlineKeyboardButton('ℹ️ Help', callback_data='help'),
             InlineKeyboardButton('😊 About', callback_data='about')
             ],[
-            InlineKeyboardButton('🍁Sᴜᴘᴘᴏʀᴛ Gʀᴏᴜᴘ🍁', url="https://t.me/bots_supported")
+            InlineKeyboardButton('🔍 Search', switch_inline_query_current_chat='')
         ]]
         reply_markup = InlineKeyboardMarkup(buttons)
         m=await message.reply_sticker("CAACAgUAAxkBAAEGmBRjhOg5skcH7YlJUtTzT9hG-3e1-AAC-AMAAp9EiVed3ajGmwsl5isE") 
